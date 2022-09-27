@@ -7,9 +7,14 @@ contributor:
     birthdate: 1871
     gutenberg_agent_id: '42146'
     url: http://www.gutenberg.org/2009/agents/42146
+covers:
+- cover_type: archival
+  image_path: 68995-h/images/cover.jpg
 creator:
   author: *id001
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68995#The-Rambler-Club-with-the-Northwest-Mounted
 gutenberg_issued: '2022-09-16'
 identifiers:
   gutenberg: '68995'
